@@ -1,3 +1,10 @@
+// SOURCE: https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.dictionary-2?view=netstandard-2.1
+// AUTHOR: Microsoft
+// FILENAME: dictionary.cs
+// PURPOSE: C# Program to use a dictionary.
+// STUDENT: Antonio Santana
+// DATE: 16 April 2019
+
 using System;
 using System.Collections.Generic;
 
