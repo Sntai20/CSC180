@@ -1,3 +1,10 @@
+// SOURCE: https://docs.microsoft.com/en-us/dotnet/api/microsoft.azure.management.network.networkmanagementclient?view=azure-dotnet
+// AUTHOR: Microsoft
+// FILENAME: VirtualNetworkInner.cs
+// PURPOSE: C# Program to use an Azure class.
+// STUDENT: Antonio Santana
+// DATE: 19 April 2019
+
 /* 
   Include these "using" directives...
   
