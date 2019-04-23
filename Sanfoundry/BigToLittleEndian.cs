@@ -1,6 +1,10 @@
-/*
- *  C# Program to Convert Big Endian to Little Endian
- */
+// SOURCE: https://www.sanfoundry.com/csharp-program-big-little-endian/
+// AUTHOR: Sanfoundry
+// FILENAME: BigToLittleEndian.cs
+// PURPOSE: C# Program to Convert Big Endian to Little Endian.
+// STUDENT: Antonio Santana
+// DATE: 19 April 2019
+
 using System;
 using System.Collections.Generic;
 using System.Linq;
