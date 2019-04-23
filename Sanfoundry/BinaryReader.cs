@@ -1,6 +1,10 @@
-/*
- * C# Program to Implement BinaryReader 
- */
+// SOURCE: https://www.sanfoundry.com/csharp-program-binaryreader/
+// AUTHOR: Sanfoundry
+// FILENAME: BinaryReader.cs
+// PURPOSE: C# Program to Implement BinaryReader.
+// STUDENT: Antonio Santana
+// DATE: 19 April 2019
+
 using System;
 using System.IO;
 class ConsoleApplication
