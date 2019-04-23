@@ -1,6 +1,10 @@
-/*
- * C# Program to Display the ATM Transaction
- */
+// SOURCE: https://www.sanfoundry.com/csharp-program-atm-transaction/
+// AUTHOR: Sanfoundry
+// FILENAME: ATM.cs
+// PURPOSE: C# Program to Display the ATM Transaction.
+// STUDENT: Antonio Santana
+// DATE: 19 April 2019
+
 using System;
 class program
 {
