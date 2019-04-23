@@ -1,6 +1,10 @@
-/*
- * C# Program to Create Input Box and Display the Text
- */
+// SOURCE: https://www.sanfoundry.com/csharp-program-create-inputbox-display/
+// AUTHOR: Sanfoundry
+// FILENAME: BoxAndDisplay.cs
+// PURPOSE: C# Program to Create Input Box and Display the Text.
+// STUDENT: Antonio Santana
+// DATE: 19 April 2019
+
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
