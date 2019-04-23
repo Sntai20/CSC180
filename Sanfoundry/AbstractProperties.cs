@@ -1,6 +1,10 @@
-/*
- *  CC# Program to Demonstrate Abstract Properties
- */
+// SOURCE: https://www.sanfoundry.com/csharp-program-class-abstract/
+// AUTHOR: Sanfoundry
+// FILENAME: ATM.cs
+// PURPOSE: C# Program to Demonstrate Abstract Properties.
+// STUDENT: Antonio Santana
+// DATE: 19 April 2019
+
 using System;
  
 public abstract class Shape
