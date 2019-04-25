@@ -1,5 +1,10 @@
-/*
- *  C# Program to Calculate Acceleration
+// SOURCE: https://www.sanfoundry.com/csharp-program-atm-transaction/
+// AUTHOR: Sanfoundry
+// FILENAME: CalculateAcceleration.cs
+// PURPOSE: C# Program to Calculate Acceleration.
+// STUDENT: Antonio Santana
+// DATE: 19 April 2019
+
 using System;
 class program
 {
