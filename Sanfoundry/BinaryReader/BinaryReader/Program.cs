@@ -8,10 +8,10 @@
 using System;
 using System.IO;
 
-namespace BinaryReader
+namespace BinaryReaderApp
 {
         class MainClass
-    {
+        {
         const string fileName = "program.dat";
         static void Main()
         {
