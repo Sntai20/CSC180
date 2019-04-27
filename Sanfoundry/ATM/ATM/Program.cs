@@ -17,16 +17,20 @@ namespace ATM
         {
             // Initalize amount, deposit, withdraw, pin, and choice
             decimal amount = 1000, deposit = 0, withdraw = 0;
-            int choice, pin = 0;
+            string choice; 
+            string pin = "1234";
 
             // Read customer pin number as an integer.
             Console.WriteLine("Enter Your Pin Number ");
-            pin = int.Parse(Console.ReadLine());
+            pin = (Console.ReadLine());
+
+            // Evaluate if pin matches.
+            
 
             // Display the menu option.
             while (true)
             {
-                Console.WriteLine("********Welcome to ATM Service**************\n");
+                Console.WriteLine("\n\n********Welcome to ATM Service**************\n");
                 Console.WriteLine("1. Check Balance\n");
                 Console.WriteLine("2. Withdraw Cash\n");
                 Console.WriteLine("3. Deposit Cash\n");
@@ -35,15 +39,15 @@ namespace ATM
                 Console.WriteLine("Enter your choice: ");
 
                 // Read the menu option selected and store the value in choice.
-                choice = int.Parse(Console.ReadLine());
+                choice = (Console.ReadLine());
 
                 // To evaluate the menu option selected use this switch statement.
                 switch (choice)
                 {
-                    case 1:
+                    case "1":
                         Console.WriteLine("\n Your balance is : ${0} ", amount);
                         break;
-                    case 2:
+                    case "2":
                         Console.WriteLine("\n ENTER THE AMOUNT TO WITHDRAW: ");
                         withdraw = int.Parse(Console.ReadLine());
                         if (withdraw % 100 != 0)
@@ -61,7 +65,7 @@ namespace ATM
                             Console.WriteLine("\n YOUR CURRENT BALANCE IS ${0}", amount);
                         }
                         break;
-                    case 3:
+                    case "3":
                         Console.WriteLine("\n ENTER THE AMOUNT TO DEPOSIT");
                         deposit = int.Parse(Console.ReadLine());
 
@@ -76,8 +80,11 @@ namespace ATM
                         }
                         Console.WriteLine("YOUR BALANCE IS ${0}", amount);
                         break;
-                    case 4:
+                    case "4":
                         Console.WriteLine("\n\n Thank You for using the ATM");
+                        break;
+                    default:
+                        Console.WriteLine("\n\n Please select one of the 4 options.");
                         break;
                 }
             }
