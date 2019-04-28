@@ -11,6 +11,9 @@ namespace DecimalToBinary
 {
     class MainClass
     {
+        /// <summary>
+        /// Convert Decimal to Binary.
+        /// </summary>
         public static void Main()
         {
             // Declare num as int and ask for user input.
