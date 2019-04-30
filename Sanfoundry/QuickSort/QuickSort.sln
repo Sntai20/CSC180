@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickSort", "QuickSort\QuickSort.csproj", "{A2CA3D64-7817-4A4D-B219-D676F07A0644}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2CA3D64-7817-4A4D-B219-D676F07A0644}.Debug|x86.ActiveCfg = Debug|x86
+		{A2CA3D64-7817-4A4D-B219-D676F07A0644}.Debug|x86.Build.0 = Debug|x86
+		{A2CA3D64-7817-4A4D-B219-D676F07A0644}.Release|x86.ActiveCfg = Release|x86
+		{A2CA3D64-7817-4A4D-B219-D676F07A0644}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
