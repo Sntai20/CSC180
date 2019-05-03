@@ -1,0 +1,6 @@
+C:\Users\antonio.santana\source\repos\foreachsimple\foreachsimple\bin\Debug\foreachsimple.exe.config
+C:\Users\antonio.santana\source\repos\foreachsimple\foreachsimple\bin\Debug\foreachsimple.exe
+C:\Users\antonio.santana\source\repos\foreachsimple\foreachsimple\bin\Debug\foreachsimple.pdb
+C:\Users\antonio.santana\source\repos\foreachsimple\foreachsimple\obj\Debug\foreachsimple.csproj.CoreCompileInputs.cache
+C:\Users\antonio.santana\source\repos\foreachsimple\foreachsimple\obj\Debug\foreachsimple.exe
+C:\Users\antonio.santana\source\repos\foreachsimple\foreachsimple\obj\Debug\foreachsimple.pdb
