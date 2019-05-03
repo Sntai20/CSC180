@@ -1,0 +1,6 @@
+C:\Users\antonio.santana\source\repos\foreachArray\foreachArray\bin\Debug\foreachArray.exe.config
+C:\Users\antonio.santana\source\repos\foreachArray\foreachArray\bin\Debug\foreachArray.exe
+C:\Users\antonio.santana\source\repos\foreachArray\foreachArray\bin\Debug\foreachArray.pdb
+C:\Users\antonio.santana\source\repos\foreachArray\foreachArray\obj\Debug\foreachArray.csproj.CoreCompileInputs.cache
+C:\Users\antonio.santana\source\repos\foreachArray\foreachArray\obj\Debug\foreachArray.exe
+C:\Users\antonio.santana\source\repos\foreachArray\foreachArray\obj\Debug\foreachArray.pdb
