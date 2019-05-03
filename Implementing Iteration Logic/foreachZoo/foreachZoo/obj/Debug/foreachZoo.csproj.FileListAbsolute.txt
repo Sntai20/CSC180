@@ -1,0 +1,6 @@
+C:\Users\antonio.santana\source\repos\foreachZoo\foreachZoo\obj\Debug\foreachZoo.csproj.CoreCompileInputs.cache
+C:\Users\antonio.santana\source\repos\foreachZoo\foreachZoo\bin\Debug\foreachZoo.exe.config
+C:\Users\antonio.santana\source\repos\foreachZoo\foreachZoo\bin\Debug\foreachZoo.exe
+C:\Users\antonio.santana\source\repos\foreachZoo\foreachZoo\bin\Debug\foreachZoo.pdb
+C:\Users\antonio.santana\source\repos\foreachZoo\foreachZoo\obj\Debug\foreachZoo.exe
+C:\Users\antonio.santana\source\repos\foreachZoo\foreachZoo\obj\Debug\foreachZoo.pdb
