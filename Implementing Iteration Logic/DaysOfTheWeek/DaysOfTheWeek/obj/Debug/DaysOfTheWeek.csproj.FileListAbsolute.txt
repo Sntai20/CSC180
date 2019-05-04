@@ -1,6 +1,13 @@
-C:\Users\antonio.santana\source\repos\DaysOfTheWeek\DaysOfTheWeek\obj\Debug\DaysOfTheWeek.csproj.CoreCompileInputs.cache
-C:\Users\antonio.santana\source\repos\DaysOfTheWeek\DaysOfTheWeek\bin\Debug\DaysOfTheWeek.exe.config
-C:\Users\antonio.santana\source\repos\DaysOfTheWeek\DaysOfTheWeek\bin\Debug\DaysOfTheWeek.exe
-C:\Users\antonio.santana\source\repos\DaysOfTheWeek\DaysOfTheWeek\bin\Debug\DaysOfTheWeek.pdb
-C:\Users\antonio.santana\source\repos\DaysOfTheWeek\DaysOfTheWeek\obj\Debug\DaysOfTheWeek.exe
-C:\Users\antonio.santana\source\repos\DaysOfTheWeek\DaysOfTheWeek\obj\Debug\DaysOfTheWeek.pdb
+C:/Users/antonio.santana/source/repos/DaysOfTheWeek/DaysOfTheWeek/obj/Debug/DaysOfTheWeek.csproj.CoreCompileInputs.cache
+C:/Users/antonio.santana/source/repos/DaysOfTheWeek/DaysOfTheWeek/bin/Debug/DaysOfTheWeek.exe.config
+C:/Users/antonio.santana/source/repos/DaysOfTheWeek/DaysOfTheWeek/bin/Debug/DaysOfTheWeek.exe
+C:/Users/antonio.santana/source/repos/DaysOfTheWeek/DaysOfTheWeek/bin/Debug/DaysOfTheWeek.pdb
+C:/Users/antonio.santana/source/repos/DaysOfTheWeek/DaysOfTheWeek/obj/Debug/DaysOfTheWeek.exe
+C:/Users/antonio.santana/source/repos/DaysOfTheWeek/DaysOfTheWeek/obj/Debug/DaysOfTheWeek.pdb
+/Users/antonio/Documents/GitHub/CSC180/Implementing Iteration Logic/DaysOfTheWeek/DaysOfTheWeek/bin/Debug/DaysOfTheWeek.exe.config
+/Users/antonio/Documents/GitHub/CSC180/Implementing Iteration Logic/DaysOfTheWeek/DaysOfTheWeek/bin/Debug/DaysOfTheWeek.exe
+/Users/antonio/Documents/GitHub/CSC180/Implementing Iteration Logic/DaysOfTheWeek/DaysOfTheWeek/bin/Debug/DaysOfTheWeek.pdb
+/Users/antonio/Documents/GitHub/CSC180/Implementing Iteration Logic/DaysOfTheWeek/DaysOfTheWeek/obj/Debug/DaysOfTheWeek.csprojAssemblyReference.cache
+/Users/antonio/Documents/GitHub/CSC180/Implementing Iteration Logic/DaysOfTheWeek/DaysOfTheWeek/obj/Debug/DaysOfTheWeek.csproj.CoreCompileInputs.cache
+/Users/antonio/Documents/GitHub/CSC180/Implementing Iteration Logic/DaysOfTheWeek/DaysOfTheWeek/obj/Debug/DaysOfTheWeek.exe
+/Users/antonio/Documents/GitHub/CSC180/Implementing Iteration Logic/DaysOfTheWeek/DaysOfTheWeek/obj/Debug/DaysOfTheWeek.pdb
