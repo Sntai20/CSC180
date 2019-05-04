@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{87E9769E-F51B-4673-A6B7-97FF7CDEF896}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="foreachZoo/Program.cs">
+    <Files>
+      <File FileName="foreachZoo/Program.cs" Line="16" Column="21" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="foreachZoo" expanded="True">
+            <Node name="foreachZoo" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="foreachZoo" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.foreachZoo PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

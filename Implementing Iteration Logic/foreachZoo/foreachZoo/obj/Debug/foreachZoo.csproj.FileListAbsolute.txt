@@ -1,6 +1,13 @@
-C:\Users\antonio.santana\source\repos\foreachZoo\foreachZoo\obj\Debug\foreachZoo.csproj.CoreCompileInputs.cache
-C:\Users\antonio.santana\source\repos\foreachZoo\foreachZoo\bin\Debug\foreachZoo.exe.config
-C:\Users\antonio.santana\source\repos\foreachZoo\foreachZoo\bin\Debug\foreachZoo.exe
-C:\Users\antonio.santana\source\repos\foreachZoo\foreachZoo\bin\Debug\foreachZoo.pdb
-C:\Users\antonio.santana\source\repos\foreachZoo\foreachZoo\obj\Debug\foreachZoo.exe
-C:\Users\antonio.santana\source\repos\foreachZoo\foreachZoo\obj\Debug\foreachZoo.pdb
+C:/Users/antonio.santana/source/repos/foreachZoo/foreachZoo/obj/Debug/foreachZoo.csproj.CoreCompileInputs.cache
+C:/Users/antonio.santana/source/repos/foreachZoo/foreachZoo/bin/Debug/foreachZoo.exe.config
+C:/Users/antonio.santana/source/repos/foreachZoo/foreachZoo/bin/Debug/foreachZoo.exe
+C:/Users/antonio.santana/source/repos/foreachZoo/foreachZoo/bin/Debug/foreachZoo.pdb
+C:/Users/antonio.santana/source/repos/foreachZoo/foreachZoo/obj/Debug/foreachZoo.exe
+C:/Users/antonio.santana/source/repos/foreachZoo/foreachZoo/obj/Debug/foreachZoo.pdb
+/Users/antonio/Documents/GitHub/CSC180/Implementing Iteration Logic/foreachZoo/foreachZoo/bin/Debug/foreachZoo.exe.config
+/Users/antonio/Documents/GitHub/CSC180/Implementing Iteration Logic/foreachZoo/foreachZoo/bin/Debug/foreachZoo.exe
+/Users/antonio/Documents/GitHub/CSC180/Implementing Iteration Logic/foreachZoo/foreachZoo/bin/Debug/foreachZoo.pdb
+/Users/antonio/Documents/GitHub/CSC180/Implementing Iteration Logic/foreachZoo/foreachZoo/obj/Debug/foreachZoo.csprojAssemblyReference.cache
+/Users/antonio/Documents/GitHub/CSC180/Implementing Iteration Logic/foreachZoo/foreachZoo/obj/Debug/foreachZoo.csproj.CoreCompileInputs.cache
+/Users/antonio/Documents/GitHub/CSC180/Implementing Iteration Logic/foreachZoo/foreachZoo/obj/Debug/foreachZoo.exe
+/Users/antonio/Documents/GitHub/CSC180/Implementing Iteration Logic/foreachZoo/foreachZoo/obj/Debug/foreachZoo.pdb

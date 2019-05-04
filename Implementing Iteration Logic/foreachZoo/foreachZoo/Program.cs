@@ -1,4 +1,12 @@
-﻿using System;
+﻿// SOURCE: https://www.microsoft.com
+// AUTHOR: Microsoft
+// FILENAME: foreachZoo
+// PURPOSE: C# Program to demonstrate iteration with methods, class, and lists.
+// STUDENT: Antonio Santana
+// DATE: 1 May 2019
+// Changes: 
+
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
