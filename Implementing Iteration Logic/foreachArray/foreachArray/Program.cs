@@ -1,4 +1,12 @@
-﻿using System;
+﻿// SOURCE: https://www.microsoft.com
+// AUTHOR: Microsoft
+// FILENAME: foreachArray
+// PURPOSE: A simple C# Program to demonstrate iteration logic with an Array.
+// STUDENT: Antonio Santana
+// DATE: 1 May 2019
+// Changes: 
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
