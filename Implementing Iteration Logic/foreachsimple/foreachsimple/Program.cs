@@ -1,4 +1,13 @@
-﻿using System;
+﻿// SOURCE: https://www.microsoft.com
+// AUTHOR: Microsoft
+// FILENAME: foreachSimple
+// PURPOSE: A simple C# Program to demonstrate iteration logic.
+// STUDENT: Antonio Santana
+// DATE: 1 May 2019
+// Changes: Expanded the EvenSequence parameters.
+
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -19,7 +28,7 @@ namespace foreachsimple
             Console.ReadKey();
         }
 
-        public static System.Collections.Generic.IEnumerable<int>
+        public static IEnumerable<int>
     EvenSequence(int firstNumber, int lastNumber)
         {
             // Yield even numbers in the range.

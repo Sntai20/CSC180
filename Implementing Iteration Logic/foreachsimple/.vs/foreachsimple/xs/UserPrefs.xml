@@ -1,6 +1,9 @@
 ﻿<Properties StartupConfiguration="{E70CD41F-89A2-4ADE-A7AC-113D0143E229}|Default">
   <MonoDevelop.Ide.ItemProperties.foreachsimple PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="foreachsimple/Program.cs">
+    <Files>
+      <File FileName="foreachsimple/Program.cs" Line="7" Column="50" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
@@ -9,6 +12,11 @@
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="foreachsimple" expanded="True" selected="True" />
         </State>
       </Pad>
     </Pads>
