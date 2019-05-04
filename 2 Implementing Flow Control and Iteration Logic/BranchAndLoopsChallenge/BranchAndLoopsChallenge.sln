@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BranchAndLoopsChallenge", "BranchAndLoopsChallenge\BranchAndLoopsChallenge.csproj", "{61ECE2FB-F925-4FE0-87AA-2E4B555D59CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61ECE2FB-F925-4FE0-87AA-2E4B555D59CE}.Debug|x86.ActiveCfg = Debug|x86
+		{61ECE2FB-F925-4FE0-87AA-2E4B555D59CE}.Debug|x86.Build.0 = Debug|x86
+		{61ECE2FB-F925-4FE0-87AA-2E4B555D59CE}.Release|x86.ActiveCfg = Release|x86
+		{61ECE2FB-F925-4FE0-87AA-2E4B555D59CE}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
