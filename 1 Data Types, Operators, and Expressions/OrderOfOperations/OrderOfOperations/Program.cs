@@ -3,23 +3,24 @@
 // FILENAME: OrderOfOperations
 // PURPOSE: A simple C# Program to demonstrate Order Of Operations.
 // STUDENT: Antonio Santana
-// DATE: 1 May 2019
-// Changes: 
+// DATE: 12 April 2019
+// Changes: Added private access modifier to functions and expected output.
 using System;
 
 namespace OrderOfOperations
 {
     class MainClass
     {
+        // Calls two functions.
         public static void Main(string[] args)
         {
             WorkingWithIntegers();
 
             OrderPrecedence();
-
         }
 
-        static void WorkingWithIntegers()
+        // Demonstrate declaring and initializing variables.
+        private static void WorkingWithIntegers()
         {
             int a = 18;
             int b = 6;
@@ -33,7 +34,8 @@ namespace OrderOfOperations
             Console.WriteLine(c);
         }
 
-        static void OrderPrecedence()
+        // Demonstrate using operators and operands.
+        private static void OrderPrecedence()
         {
             int a = 5;
             int b = 4;
@@ -41,6 +43,7 @@ namespace OrderOfOperations
             int d = a + b * c;
             Console.WriteLine(d);
 
+            // Parenthesis are used to implement oder of opertions.
             d = (a + b) * c;
             Console.WriteLine(d);
 
@@ -55,3 +58,14 @@ namespace OrderOfOperations
         }
     }
 }
+/*
+         Output:
+            24
+            12
+            108
+            3
+            13
+            18
+            25
+            3         
+      */
