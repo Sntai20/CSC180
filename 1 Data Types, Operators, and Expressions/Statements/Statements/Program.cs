@@ -3,7 +3,7 @@
 // FILENAME: Statements
 // PURPOSE: A simple C# Program to demonstrate statements.
 // STUDENT: Antonio Santana
-// DATE: 1 May 2019
+// DATE: 10 April 2019
 // Changes: 
 
 using System;
@@ -23,12 +23,11 @@ namespace Statements
             // Error! This is an expression, not an expression statement.
             // counter + 1; 
 
-            // Declaration statements with initializers are functionally
-            // equivalent to  declaration statement followed by assignment statement:         
+            // Declaration statements with initializers condensed to one line.         
             // Declare and initialize an array.
             int[] radii = { 15, 32, 108, 74, 9 };
 
-            // Declare and initialize  constant.
+            // Declare and initialize constant, so it can not be changed.
             const double pi = 3.14159;           
 
             // foreach statement block that contains multiple statements.
@@ -37,9 +36,8 @@ namespace Statements
                 // Declaration statement with initializer.
                 double circumference = pi * (2 * radius);
 
-                // Expression statement (method invocation). A single-line
-                // statement can span multiple text lines because line breaks
-                // are treated as white space, which is ignored by the compiler.
+                // Expression statement can span multiple lines. Line breaks
+                // are treated as white space and ignored by the compiler.
                 System.Console.WriteLine("Radius of circle #{0} is {1}. Circumference = {2:N2}",
                                         counter, radius, circumference);
 
