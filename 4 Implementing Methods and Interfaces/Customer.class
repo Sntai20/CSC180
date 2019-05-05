@@ -1,0 +1,7 @@
+	Public interface :
+	ILoyaltyCardHolder
+	{
+		priInt TotalPoints {get;}
+		Int AddPoints (decimal transactionValue);
+		Void ResetPoints();
+}
