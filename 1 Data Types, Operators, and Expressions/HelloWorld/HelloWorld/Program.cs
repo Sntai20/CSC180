@@ -7,12 +7,15 @@
 // Changes: 
 using System;
 
+// namespace is used to organize code.
 namespace HelloWorld
 {
     class MainClass
     {
+        // Void means this program does not return a value.
         public static void Main(string[] args)
         {
+            // Statement to write to the console.
             Console.WriteLine("Hello World!");
         }
     }
