@@ -3,7 +3,7 @@
 // FILENAME: CalculateAreaOfCircle
 // PURPOSE: C# Program to calculate the area of a circle.
 // STUDENT: Antonio Santana
-// DATE: 1 May 2019
+// DATE: 13 April 2019
 // Changes: 
 using System;
 
@@ -11,6 +11,7 @@ namespace CalculateAreaOfCircle
 {
     class MainClass
     {
+        // Calls 3 functions and introduces new data types.
         public static void Main(string[] args)
         {
             WorkingWithIntegers();
@@ -21,10 +22,12 @@ namespace CalculateAreaOfCircle
 
             WorkWithDoubles();
 
+            // Decimal data types are used for monetary values.
             decimal min = decimal.MinValue;
             decimal max = decimal.MaxValue;
             Console.WriteLine($"The range of the decimal type is {min} to {max}");
 
+            // Double data types are used for double precision values.
             double a = 1.0;
             double b = 3.0;
             Console.WriteLine(a / b);
@@ -40,6 +43,7 @@ namespace CalculateAreaOfCircle
 
         static void WorkingWithIntegers()
         {
+            // Int data types are used for whole number values.
             int a = 18;
             int b = 6;
             int c = a + b;
@@ -73,6 +77,7 @@ namespace CalculateAreaOfCircle
             Console.WriteLine(h);
         }
 
+        // Modulus operator introduced to capture remainder.
         static void TestLimits()
         {
             int a = 7;
@@ -114,3 +119,26 @@ namespace CalculateAreaOfCircle
         }
     }
 }
+/*
+Output:
+24
+12
+108
+3
+13
+18
+25
+3
+quotient: 3
+remainder: 2
+The range of integers is -2147483648 to 2147483647
+An example of overflow: -2147483646
+4.5
+5.25
+The range of double is -1.79769313486232E+308 to 1.79769313486232E+308
+0.333333333333333
+The range of the decimal type is -79228162514264337593543950335 to 79228162514264337593543950335
+0.333333333333333
+0.3333333333333333333333333333
+19.6349540849362        
+      */
