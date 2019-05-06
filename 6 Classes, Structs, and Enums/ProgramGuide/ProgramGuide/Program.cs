@@ -30,7 +30,7 @@ namespace ProgramGuide
         {
             // Class members.
             //
-            // Property.
+            // Public property.
             public int Number { get; set; }
 
             // Method.
