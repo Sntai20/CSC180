@@ -16,7 +16,7 @@ namespace GetFiles
         public static void Main()
         {
             // Create array of filenames.
-            string[] array1 = Directory.GetFiles(@"D:\");
+            string[] array1 = Directory.GetFiles(@"C:\Users\Antonio\Documents\GitHub\CSC180\");
             Console.WriteLine("Files in the Directory");
 
             // To print to screen iterate through the array of names.
