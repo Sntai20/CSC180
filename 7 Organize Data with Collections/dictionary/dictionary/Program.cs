@@ -1,9 +1,9 @@
 ﻿// SOURCE: https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.dictionary-2?view=netstandard-2.1
 // AUTHOR: Microsoft
-// FILENAME: dictionary.cs
+// FILENAME: Dictionary
 // PURPOSE: C# Program to use a dictionary.
 // STUDENT: Antonio Santana
-// DATE: 16 April 2019
+// DATE: 21 April 2019
 
 using System;
 using System.Collections.Generic;
@@ -11,9 +11,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace dictionary
+namespace Dictionary
 {
-    public class Example
+    public class MainClass
     {
         public static void Main()
         {
@@ -22,8 +22,7 @@ namespace dictionary
             Dictionary<string, string> openWith =
                 new Dictionary<string, string>();
 
-            // Add some elements to the dictionary. There are no 
-            // duplicate keys, but some of the values are duplicates.
+            // Add the following unique keys to the dictionary.
             openWith.Add("txt", "notepad.exe");
             openWith.Add("bmp", "paint.exe");
             openWith.Add("dib", "paint.exe");
@@ -89,8 +88,8 @@ namespace dictionary
                     openWith["ht"]);
             }
 
-            // When you use foreach to enumerate dictionary elements,
-            // the elements are retrieved as KeyValuePair objects.
+            // Retrieved the elements as KeyValuePair objects with a
+            // foreach loop to enumerate the dictionary elements.
             Console.WriteLine();
             foreach (KeyValuePair<string, string> kvp in openWith)
             {
@@ -133,7 +132,8 @@ namespace dictionary
         }
     }
 
-    /* This code example produces the following output:
+    /* 
+    Output:
     An element with Key = "txt" already exists.
     For key = "rtf", value = wordpad.exe.
     For key = "rtf", value = winword.exe.
