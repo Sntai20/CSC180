@@ -13,6 +13,7 @@ namespace ConvertDaysToWeeks
             Console.WriteLine("Enter the number of days");
             ndays = int.Parse(Console.ReadLine());
 
+            // TODO Turn this into a method.
             // Calculate number of days in years, weeks, and days.
             year = ndays / 365;
             week = (ndays % 365) / DAYSINWEEK;
