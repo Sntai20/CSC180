@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndexOf", "IndexOf\IndexOf.csproj", "{AF0DC522-DA0B-4441-9A97-5BB0A102CC49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF0DC522-DA0B-4441-9A97-5BB0A102CC49}.Debug|x86.ActiveCfg = Debug|x86
+		{AF0DC522-DA0B-4441-9A97-5BB0A102CC49}.Debug|x86.Build.0 = Debug|x86
+		{AF0DC522-DA0B-4441-9A97-5BB0A102CC49}.Release|x86.ActiveCfg = Release|x86
+		{AF0DC522-DA0B-4441-9A97-5BB0A102CC49}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
