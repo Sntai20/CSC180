@@ -1,4 +1,9 @@
-# csc180
+# Antonio Santana
+## Computer Science Course 180
+## C# Portfolio: Bill of Accomplishment
+
+The programs below demonstrate fundamental C# concepts with coding conventions and best practices. The end result was to create a reference portfolio of known good source code to show potential employers and for future projects. As a result, one of the goals was to improve readability by implementing consistent commenting, naming, and layout conventions.
+
 
 The final project in this class is to produce a portfolio of at least 50 sample c# programs that demonstrate topics discussed in the class.  This repository will contain a collection of possible (suggested) sample programs provided by the instructor for task #1 (below).
 
