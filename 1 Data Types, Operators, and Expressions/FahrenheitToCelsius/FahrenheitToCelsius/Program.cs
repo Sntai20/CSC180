@@ -20,6 +20,7 @@ namespace FahrenheitToCelsius
             double celsius;
             Console.Write("Enter Fahrenheit temperature : ");
 
+            // TODO Turn this into a method.
             // Declare fahrenheit as double, store user input into fahrenheit.
             double fahrenheit = Convert.ToDouble(Console.ReadLine());
 
