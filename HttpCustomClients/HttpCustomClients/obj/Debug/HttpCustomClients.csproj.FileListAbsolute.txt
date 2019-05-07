@@ -1,0 +1,7 @@
+/Users/antonio/Documents/GitHub/CSC180/HttpCustomClients/HttpCustomClients/bin/Debug/HttpCustomClients.exe.config
+/Users/antonio/Documents/GitHub/CSC180/HttpCustomClients/HttpCustomClients/bin/Debug/HttpCustomClients.exe
+/Users/antonio/Documents/GitHub/CSC180/HttpCustomClients/HttpCustomClients/bin/Debug/HttpCustomClients.pdb
+/Users/antonio/Documents/GitHub/CSC180/HttpCustomClients/HttpCustomClients/obj/Debug/HttpCustomClients.csprojAssemblyReference.cache
+/Users/antonio/Documents/GitHub/CSC180/HttpCustomClients/HttpCustomClients/obj/Debug/HttpCustomClients.csproj.CoreCompileInputs.cache
+/Users/antonio/Documents/GitHub/CSC180/HttpCustomClients/HttpCustomClients/obj/Debug/HttpCustomClients.exe
+/Users/antonio/Documents/GitHub/CSC180/HttpCustomClients/HttpCustomClients/obj/Debug/HttpCustomClients.pdb
