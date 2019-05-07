@@ -1,11 +1,8 @@
 # Antonio Santana
-## Computer Science Course 180
-## C# Portfolio: Bill of Accomplishment
+### Computer Science Course 180
+### C# Portfolio: Bill of Accomplishment
 
-The programs below demonstrate fundamental C# concepts with coding conventions and best practices. The end result was to create a reference portfolio of known good source code to show potential employers and for future projects. As a result, one of the goals was to improve readability by implementing consistent commenting, naming, and layout conventions.
-
-
-The final project in this class is to produce a portfolio of at least 50 sample c# programs that demonstrate topics discussed in the class.  This repository will contain a collection of possible (suggested) sample programs provided by the instructor for task #1 (below).
+This final project demonstrates fundamental C# concepts with best practices coding conventions. The end result was to create a reference portfolio of known good source code to show potential employers and for future projects. As a result, one of the goals was to improve readability by implementing consistent commenting, naming, and layout conventions.
 
 Project components (tasks) for each sample program:
 1) find suitable example programs hopefully written by professional programmers,
@@ -15,7 +12,7 @@ Project components (tasks) for each sample program:
 5) augment the program to better demonstrate its functionality
 6) capture the program output and append it to the end of your source code
 
-I will be looking for:
+The following were included as much as possible.
 1) the original source code of the sample program
 2) document the source and (if possible) the author of the sample program
 3) summarize the program functionality in a one-liner comment
@@ -23,7 +20,4 @@ I will be looking for:
 5) the final source code of the sample program
 6) a terminal comment containing the sample program output
 
-There are lots of opportunities you can use to develop your programming skills:
-1. expand the functionality of the sample program
-2. put the sample program aside, and rewrite it from scratch... as much as possible on your own
-3. choose and implement challenge programs from textbooks, such as "Cracking the Coding Interview," or one of the websites, such as "leetcode.com," or "hackerrank.com," etc.
+
