@@ -1,4 +1,11 @@
-﻿using System;
+﻿// SOURCE: https://www.sanfoundry.com
+// AUTHOR: Sanfoundry
+// FILENAME: ConvertDaysToWeeks
+// PURPOSE: C# Program to Convert Days To Weeks.
+// STUDENT: Antonio Santana
+// DATE: 19 April 2019
+// Changes: 
+using System;
 
 namespace ConvertDaysToWeeks
 {
@@ -26,3 +33,11 @@ namespace ConvertDaysToWeeks
         }
     }
 }
+/*
+Output:
+Enter the number of days
+62
+62 is equivalent to 0years, 8weeks and 6days
+
+Press any key to continue...
+ */
