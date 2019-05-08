@@ -15,6 +15,7 @@ namespace MediaPlayer
 
         public void ReportResult(PlayMedia playerDelegate)
         {
+            // Validate the media is working, then report the status.
             if (playerDelegate() == 0)
             {
                 Console.WriteLine("Media played successfully.");
@@ -30,6 +31,7 @@ namespace MediaPlayer
     {
         private int audioPlayerStatus;
 
+        // Function to simulate the audio file playing, then returns the status.
         public int PlayAudioFile()
         {
             Console.WriteLine("Simulating playing an audio file here.");
@@ -42,6 +44,7 @@ namespace MediaPlayer
     {
         private int videoPlayerStatus;
 
+        // Function to simulate a failed video file, then returns the status.
         public int PlayVideoFile()
         {
             Console.WriteLine("Simulating a failed video file here.");

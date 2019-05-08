@@ -58,6 +58,7 @@ namespace CalculateAreaOfCircle
 
         static void OrderPrecedence()
         {
+            // Declare variables as an int data type, then initialize their values.
             int a = 5;
             int b = 4;
             int c = 2;
@@ -70,6 +71,7 @@ namespace CalculateAreaOfCircle
             d = (a + b) - 6 * c + (12 * 4) / 3 + 12;
             Console.WriteLine(d);
 
+            // Declare variables as an int data type, then initialize their values.
             int e = 7;
             int f = 4;
             int g = 3;
@@ -98,12 +100,14 @@ namespace CalculateAreaOfCircle
 
         static void WorkWithDoubles()
         {
+            // Declare variables as a double data type, then initialize their values.
             double a = 5;
             double b = 4;
             double c = 2;
             double d = (a + b) / c;
             Console.WriteLine(d);
 
+            // Declare variables as a double data type, then initialize their values.
             double e = 19;
             double f = 23;
             double g = 8;

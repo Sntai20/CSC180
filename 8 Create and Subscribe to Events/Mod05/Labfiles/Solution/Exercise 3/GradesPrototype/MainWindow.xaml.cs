@@ -1,4 +1,11 @@
-﻿using System;
+﻿// SOURCE: https://www.microsoft.com
+// AUTHOR: Microsoft
+// FILENAME: GradesPrototype
+// PURPOSE: C# Program the major concepts of CSC180.
+// STUDENT: Antonio Santana
+// DATE: 14 April - May 2019
+// Changes: 
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.Linq;

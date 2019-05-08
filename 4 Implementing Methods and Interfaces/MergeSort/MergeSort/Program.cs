@@ -33,8 +33,10 @@ namespace MergeSort
                 else
                     temp[tmp_pos++] = numbers[mid++];
             }
+
             while (left <= left_end)
                 temp[tmp_pos++] = numbers[left++];
+
             while (mid <= right)
                 temp[tmp_pos++] = numbers[mid++];
             for (i = 0; i < num_elements; i++)
