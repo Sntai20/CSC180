@@ -28,7 +28,7 @@ namespace FahrenheitToCelsius
             celsius = (fahrenheit - 32) * 5 / 9;
 
             //TODO clean up output
-            Console.WriteLine("The converted Celsius temperature is" + celsius);
+            Console.WriteLine("The converted Celsius temperature is " + celsius);
 
             //TODO create loop
             //TODO create exit statement.
@@ -36,3 +36,12 @@ namespace FahrenheitToCelsius
         }
     }
 }
+/*
+Output:
+Enter Fahrenheit temperature : 50
+The converted Celsius temperature is 10
+
+
+Press any key to continue...
+
+    */
