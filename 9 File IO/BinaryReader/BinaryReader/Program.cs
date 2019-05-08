@@ -51,3 +51,11 @@ namespace BinaryReaderApp
         }
     }
 }
+/*
+Output:
+Using Binary Writer Class the Contents are Written
+Aspect Ratio Set to : 1.25
+Temp Directory is : C:\Temp
+
+Press any key to continue . . .
+*/

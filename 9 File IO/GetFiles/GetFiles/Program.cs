@@ -4,7 +4,7 @@
 // PURPOSE: C# Program to List the Files in a Directory.
 // STUDENT: Antonio Santana
 // DATE: 19 April 2019
-// Changes:
+// Changes: Added GetFiles(@"C:\Users\Antonio\Documents\GitHub\CSC180\"
 
 using System;
 using System.IO;
@@ -15,7 +15,7 @@ namespace GetFiles
     {
         public static void Main()
         {
-            // Create array of filenames.
+            // Create array and get the filenames in the full path provided.
             string[] array1 = Directory.GetFiles(@"C:\Users\Antonio\Documents\GitHub\CSC180\");
             Console.WriteLine("Files in the Directory");
 
@@ -28,6 +28,12 @@ namespace GetFiles
         }
     }
 }
+/*
+ Output:
+ Files in the Directory
+C:\Users\Antonio\Documents\GitHub\CSC180\.DS_Store
+C:\Users\Antonio\Documents\GitHub\CSC180\README.md
+ */
 
 
 
