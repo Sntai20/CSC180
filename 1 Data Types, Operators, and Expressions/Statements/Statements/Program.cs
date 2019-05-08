@@ -20,9 +20,6 @@ namespace Statements
             // Assignment statement.
             counter = 1;
 
-            // Error! This is an expression, not an expression statement.
-            // counter + 1; 
-
             // Declaration statements with initializers condensed to one line.         
             // Declare and initialize an array.
             int[] radii = { 15, 32, 108, 74, 9 };
