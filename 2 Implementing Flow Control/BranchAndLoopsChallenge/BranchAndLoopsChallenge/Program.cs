@@ -16,14 +16,22 @@ namespace BranchAndLoopsChallenge
         {
             ExploreIf();
 
+            // initializer: int index = 0; declares counter as a loop variable, 
+            // and sets its initial value to 0.
             int counter = 0;
+            // While loop.
+            // Evaluate condition & execute statements until condition is false.
             while (counter < 10)
             {
                 Console.WriteLine($"Hello World! The counter is {counter}");
                 counter++;
             }
 
+            // initializer: int index = 0; declares counter as a loop variable, 
+            // and sets its initial value to 0.
             counter = 0;
+            // Execute statements, then evaluates condition & iterates 
+            // until condition is false.
             do
             {
                 Console.WriteLine($"Hello World! The counter is {counter}");
@@ -40,8 +48,10 @@ namespace BranchAndLoopsChallenge
 
         static void ExploreIf()
         {
+            // Declare variables as ints and initialize to 5 and 3.
             int a = 5;
             int b = 3;
+            // Evaluate the condition then print out the results.
             if (a + b > 10)
             {
                 Console.WriteLine("The answer is greater than 10");
@@ -51,6 +61,7 @@ namespace BranchAndLoopsChallenge
                 Console.WriteLine("The answer is not greater than 10");
             }
 
+            // Declare variable as an int and initialize to 4.
             int c = 4;
             if ((a + b + c > 10) && (a > b))
             {
@@ -78,6 +89,11 @@ namespace BranchAndLoopsChallenge
         static void ChallengeAnswer()
         {
             int sum = 0;
+            // For loop.
+            // Three parts that control are initializer, condition, and iterator.
+            // iterator: index++ specifies how to modify the loop variable
+            // after executing the block following the for statement. 
+            // index should be incremented by 1 each time the block executes.
             for (int number = 1; number < 21; number++)
             {
                 if (number % 3 == 0)
@@ -90,3 +106,42 @@ namespace BranchAndLoopsChallenge
 
     }
 }
+/*
+Output:
+The answer is not greater than 10
+The answer is greater than 10
+And the first number is greater than the second
+The answer is greater than 10
+Or the first number is greater than the second
+Hello World! The counter is 0
+Hello World! The counter is 1
+Hello World! The counter is 2
+Hello World! The counter is 3
+Hello World! The counter is 4
+Hello World! The counter is 5
+Hello World! The counter is 6
+Hello World! The counter is 7
+Hello World! The counter is 8
+Hello World! The counter is 9
+Hello World! The counter is 0
+Hello World! The counter is 1
+Hello World! The counter is 2
+Hello World! The counter is 3
+Hello World! The counter is 4
+Hello World! The counter is 5
+Hello World! The counter is 6
+Hello World! The counter is 7
+Hello World! The counter is 8
+Hello World! The counter is 9
+Hello World! The index is 0
+Hello World! The index is 1
+Hello World! The index is 2
+Hello World! The index is 3
+Hello World! The index is 4
+Hello World! The index is 5
+Hello World! The index is 6
+Hello World! The index is 7
+Hello World! The index is 8
+Hello World! The index is 9
+The sum is 63
+    */

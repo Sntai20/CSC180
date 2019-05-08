@@ -6,6 +6,7 @@
 // DATE: 19 April 2019
 // Changes: int amount to decimal
 //  else if (withdraw > (amount - 500))
+// added a default case option.
 
 using System;
 
@@ -50,6 +51,7 @@ namespace ATM
                     case "2":
                         Console.WriteLine("\n ENTER THE AMOUNT TO WITHDRAW: ");
                         withdraw = int.Parse(Console.ReadLine());
+                        // Evaluate if the withdraw amount is in multiple of 100.
                         if (withdraw % 100 != 0)
                         {
                             Console.WriteLine("\n PLEASE ENTER THE AMOUNT IN MULTIPLES OF 100");
