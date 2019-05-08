@@ -15,11 +15,11 @@ using System.Threading.Tasks;
 
 namespace foreachZoo
 {
-    class Program
+    class MainClass
     {
         static void Main()
         {
-            // Create theZoo local, then add mammals and birds.
+            // Create new local object theZoo, then add mammals and birds.
             Zoo theZoo = new Zoo();
 
             theZoo.AddMammal("Whale");
@@ -27,13 +27,12 @@ namespace foreachZoo
             theZoo.AddBird("Penguin");
             theZoo.AddBird("Warbler");
 
-            // Iterate through the names in theZoo.
+            // Iterate through each name in the theZoo.
             foreach (string name in theZoo)
             {
                 Console.Write(name + " ");
             }
             Console.WriteLine();
-            // Output: Whale Rhinoceros Penguin Warbler
 
             // Iterate through bird names in theZoo.
             foreach (string name in theZoo.Birds)
@@ -41,7 +40,6 @@ namespace foreachZoo
                 Console.Write(name + " ");
             }
             Console.WriteLine();
-            // Output: Penguin Warbler
 
             // Iterate through mammal names in theZoo.
             foreach (string name in theZoo.Mammals)
@@ -49,8 +47,6 @@ namespace foreachZoo
                 Console.Write(name + " ");
             }
             Console.WriteLine();
-            // Output: Whale Rhinoceros
-
             Console.ReadKey();
         }
 
@@ -106,10 +102,15 @@ namespace foreachZoo
             private class Animal
             {
                 public enum TypeEnum { Bird, Mammal }
-
                 public string Name { get; set; }
                 public TypeEnum Type { get; set; }
             }
         }
     }
 }
+/*
+Output: 
+Whale Rhinoceros Penguin Warbler
+Penguin Warbler
+Whale Rhinoceros
+    */

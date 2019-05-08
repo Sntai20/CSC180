@@ -11,3 +11,10 @@ C:/Users/antonio.santana/source/repos/foreachArray/foreachArray/obj/Debug/foreac
 /Users/antonio/Documents/GitHub/CSC180/Implementing Iteration Logic/foreachArray/foreachArray/obj/Debug/foreachArray.csproj.CoreCompileInputs.cache
 /Users/antonio/Documents/GitHub/CSC180/Implementing Iteration Logic/foreachArray/foreachArray/obj/Debug/foreachArray.exe
 /Users/antonio/Documents/GitHub/CSC180/Implementing Iteration Logic/foreachArray/foreachArray/obj/Debug/foreachArray.pdb
+/Users/antonio/Documents/GitHub/CSC180/3 Implementing Iteration Logic/foreachArray/foreachArray/bin/Debug/foreachArray.exe.config
+/Users/antonio/Documents/GitHub/CSC180/3 Implementing Iteration Logic/foreachArray/foreachArray/bin/Debug/foreachArray.exe
+/Users/antonio/Documents/GitHub/CSC180/3 Implementing Iteration Logic/foreachArray/foreachArray/bin/Debug/foreachArray.pdb
+/Users/antonio/Documents/GitHub/CSC180/3 Implementing Iteration Logic/foreachArray/foreachArray/obj/Debug/foreachArray.csprojAssemblyReference.cache
+/Users/antonio/Documents/GitHub/CSC180/3 Implementing Iteration Logic/foreachArray/foreachArray/obj/Debug/foreachArray.csproj.CoreCompileInputs.cache
+/Users/antonio/Documents/GitHub/CSC180/3 Implementing Iteration Logic/foreachArray/foreachArray/obj/Debug/foreachArray.exe
+/Users/antonio/Documents/GitHub/CSC180/3 Implementing Iteration Logic/foreachArray/foreachArray/obj/Debug/foreachArray.pdb

@@ -4,7 +4,7 @@
 // PURPOSE: A simple C# Program to demonstrate iteration logic with 2D array.
 // STUDENT: Antonio Santana
 // DATE: 1 May 2019
-// Changes: 
+// Changes: Implemented the short form of creating a 2D array.
 
 using System;
 using System.Collections.Generic;
@@ -20,15 +20,28 @@ namespace foreachMultiArray
         {
             // Create three rows and two columns. 
             int[,] numbers2D = new int[3, 2] { { 9, 99 }, { 3, 33 }, { 5, 55 } };
-            // Or use the short form:
-            // int[,] numbers2D = { { 9, 99 }, { 3, 33 }, { 5, 55 } };
+
+            // Implemented the short form:
+            int[,] numbers2D2 = { { 8, 88 }, { 2, 22 }, { 4, 44 } };
 
             // Iterate through each element in both arrays and print values.
             foreach (int i in numbers2D)
             {
                 System.Console.Write("{0} ", i);
             }
-            // Output: 9 99 3 33 5 55
+
+            System.Console.WriteLine("Iterate through each element in numbers2D2 and print values.");
+            // Iterate through each element in numbers2D2 and print values.
+            foreach (int i in numbers2D2)
+            {
+                System.Console.Write("{0} ", i);
+            }
         }
     }
 }
+/*
+Output: 
+9 99 3 33 5 55 Iterate through each element in numbers2D2 and print values.
+8 88 2 22 4 44 
+
+    */

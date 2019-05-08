@@ -44,6 +44,7 @@ namespace SampleDataTypes
         {
             Useful.dumpStringArray(args, "command line arguments:");
 
+            // Driver function returns results to the result variable as an int.
             int result = driver();
 
             // return the terminal status of the program back to the user.
@@ -56,11 +57,12 @@ namespace SampleDataTypes
             return result;
         } // end Main() function
 
-        // 
+        // Driver function 
         private static int driver()
         {
             Console.WriteLine("Hello, World.\n");
 
+            // Stores dumpStringArray from useful class into a string list.
             List<string> inpstrings;
             readStringsFromKeyboard(out inpstrings);
             Useful.dumpStringList(inpstrings, "keyboard input:");
@@ -75,8 +77,10 @@ namespace SampleDataTypes
         private static bool readStringsFromKeyboard(out List<string> result)
         {
 
+            // Instansiate a new list with a string data type.
             result = new List<string>();
 
+            // Create an infinite for loop.
             for (; ; )
             {
                 string inpstr = Console.ReadLine();
@@ -235,7 +239,7 @@ namespace SampleDataTypes
 
     } // end class Useful
 
-} // end namespace mypgms
+} 
 
 /*
 Output:

@@ -27,7 +27,6 @@ namespace DaysOfTheWeek
             {
                 Console.Write(day + " ");
             }
-            // Output: Sun Mon Tue Wed Thu Fri Sat
             Console.ReadKey();
         }
 
@@ -48,3 +47,7 @@ namespace DaysOfTheWeek
         }
     }
 }
+/*
+Output:
+Sun Mon Tue Wed Thu Fri Sat
+    */

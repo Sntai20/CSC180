@@ -21,6 +21,7 @@ namespace SwitchStatement
         public static void Main()
         {
             // Create a local variable of the type color.
+            // Store a random color into the c variable. 
             Color c = (Color)(new Random()).Next(0, 3);
 
             // Evaluate each type in the c variable to determine the color.

@@ -11,3 +11,10 @@ C:/Users/antonio.santana/source/repos/foreachsimple/foreachsimple/obj/Debug/fore
 /Users/antonio/Documents/GitHub/CSC180/Implementing Iteration Logic/foreachsimple/foreachsimple/obj/Debug/foreachsimple.csproj.CoreCompileInputs.cache
 /Users/antonio/Documents/GitHub/CSC180/Implementing Iteration Logic/foreachsimple/foreachsimple/obj/Debug/foreachsimple.exe
 /Users/antonio/Documents/GitHub/CSC180/Implementing Iteration Logic/foreachsimple/foreachsimple/obj/Debug/foreachsimple.pdb
+/Users/antonio/Documents/GitHub/CSC180/3 Implementing Iteration Logic/foreachsimple/foreachsimple/bin/Debug/foreachsimple.exe.config
+/Users/antonio/Documents/GitHub/CSC180/3 Implementing Iteration Logic/foreachsimple/foreachsimple/bin/Debug/foreachsimple.exe
+/Users/antonio/Documents/GitHub/CSC180/3 Implementing Iteration Logic/foreachsimple/foreachsimple/bin/Debug/foreachsimple.pdb
+/Users/antonio/Documents/GitHub/CSC180/3 Implementing Iteration Logic/foreachsimple/foreachsimple/obj/Debug/foreachsimple.csprojAssemblyReference.cache
+/Users/antonio/Documents/GitHub/CSC180/3 Implementing Iteration Logic/foreachsimple/foreachsimple/obj/Debug/foreachsimple.csproj.CoreCompileInputs.cache
+/Users/antonio/Documents/GitHub/CSC180/3 Implementing Iteration Logic/foreachsimple/foreachsimple/obj/Debug/foreachsimple.exe
+/Users/antonio/Documents/GitHub/CSC180/3 Implementing Iteration Logic/foreachsimple/foreachsimple/obj/Debug/foreachsimple.pdb

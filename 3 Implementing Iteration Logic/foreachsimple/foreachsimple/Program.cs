@@ -6,7 +6,6 @@
 // DATE: 1 May 2019
 // Changes: Expanded the EvenSequence parameters.
 
-
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -28,12 +27,16 @@ namespace foreachsimple
             Console.ReadKey();
         }
 
+        // Accepts two int parameters as the firstNumber and lastNumber.
         public static IEnumerable<int>
     EvenSequence(int firstNumber, int lastNumber)
         {
-            // Yield even numbers in the range.
+            // Declare number as an int and assign the firstNumber to the variable.
+            // Execute the block statement as long as number is <= lastNumber.
+            // Increment the counter number.
             for (int number = firstNumber; number <= lastNumber; number++)
             {
+                // As long as the number is divisible by 2 return the even numbers.
                 if (number % 2 == 0)
                 {
                     yield return number;
@@ -42,5 +45,8 @@ namespace foreachsimple
         }
     }
 }
-
+/*
+Output:
+0 2 4 6 8 10 12 14 16 18 
+    */
 

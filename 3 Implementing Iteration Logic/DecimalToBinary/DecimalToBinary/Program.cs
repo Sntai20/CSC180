@@ -1,6 +1,6 @@
-﻿// SOURCE: https://www.sanfoundry.com/csharp-program-binaryreader/
+﻿// SOURCE: https://www.sanfoundry.com
 // AUTHOR: Sanfoundry
-// FILENAME: BinaryReader.cs
+// FILENAME: DecimalToBinary
 // PURPOSE: C# Program to Convert Decimal to Binary.
 // STUDENT: Antonio Santana
 // DATE: 19 April 2019
@@ -25,7 +25,7 @@ namespace DecimalToBinary
             int quot;
             string rem = "";
 
-            // Validate input is greater than or equal to 1.
+            // Execute statement as long as input is greater than or equal to 1.
             while (num >= 1)
             {
                 quot = num / 2;
@@ -51,4 +51,8 @@ namespace DecimalToBinary
         }
     }
 }
-
+/*
+ * Output:
+ * Enter a Number : 255
+The Binary format for given number is 11111111
+*/

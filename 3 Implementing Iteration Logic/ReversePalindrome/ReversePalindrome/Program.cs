@@ -16,7 +16,10 @@ namespace ReversePalindrome
         public static void Main()
         {
 
+            // Declare values as ints and initialize reverse as 0.
             int num, temp, remainder, reverse = 0;
+
+            // Ask for user input and store value in num.
             Console.WriteLine("Enter an integer \n");
             num = int.Parse(Console.ReadLine());
 
@@ -24,35 +27,25 @@ namespace ReversePalindrome
             // value as num. 
             temp = num;
 
-            // The while loop will execute as long as the 'num'
-            // variable is greater than 0.
+            // Execute as long as the num variable is greater than 0.
             while (num > 0)
             {
-                // The remainder variable will return the remainder
-                // of an input value divided by 10. Then the
-                // program will determine the value of reverse
-                // variable by multiplying it to 10 and adding
-                // the value of remainder. The original reverse
-                // value used inside the reverse variable will
-                // be 0. The num value is then assigned to the
-                // value returned when it's divided by 10, i.e.,
-                // 'num /= 10' means 'num = num/10'.
+                // Divide the input by 10 and store remainder value in remainder. 
                 remainder = num % 10;
+
+                // Multiply the input by 10 add the remainder value and store in reverse.
                 reverse = reverse * 10 + remainder;
+
+                // Assign the value to num after it's divided by 10.
+                // 'num /= 10' means 'num = num/10'.
                 num /= 10;
             }
 
-            // The Console will print the temp value which was
-            // the value of the original input while the reverse
-            // value will print the value returned from calculations
-            // executed during the while loop.
             Console.WriteLine("Given number is = {0}", temp);
             Console.WriteLine("Its reverse is  = {0}", reverse);
 
-            // The condition statement checks to see if the temp
-            // and reverse variables are equal and returns true.
-            // If they are, the program prints out that it's a
-            // palindrome.
+            // Are the temp and reverse variables the same? 
+            // Returns true if the value is a palindrome.
             if (temp == reverse)
                 Console.WriteLine("Number is a palindrome \n");
             else
