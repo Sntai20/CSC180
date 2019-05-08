@@ -90,8 +90,28 @@ namespace ATM
             }
         }
     }
-
 }
+/*
+Enter your choice: 
+1
 
+ Your balance is : $1000 
+
+
+********Welcome to ATM Service**************
+
+1. Check Balance
+
+2. Withdraw Cash
+
+3. Deposit Cash
+
+4. Quit
+
+*********************************************
+
+
+Enter your choice: 
+    */
 
 
