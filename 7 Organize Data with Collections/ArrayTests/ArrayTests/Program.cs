@@ -22,7 +22,7 @@ namespace ArrayTests
             // Declare and set array element values.
             int[] array2 = new int[] { 1, 3, 5, 7, 9 };
 
-            // Alternative syntax.
+            // Short version to declare an array.
             int[] array3 = { 1, 2, 3, 4, 5, 6 };
 
             Console.WriteLine("Iterate through the array named numbers " +
