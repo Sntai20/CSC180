@@ -12,8 +12,8 @@ using System.Threading.Tasks;
 
 namespace SwitchStatement
 {
-    // Create a variable of type Color.
-    public enum Color { Red, Green, Blue }
+    // To mention three colors one by one, use an enum labeled Color.
+    public enum Colors { Red, Green, Blue };
 
     class MainClass
     {
@@ -22,18 +22,18 @@ namespace SwitchStatement
         {
             // Create a local variable of the type color.
             // Store a random color into the c variable. 
-            Color c = (Color)(new Random()).Next(0, 3);
+            Colors color = (Colors)(new Random()).Next(0, 3);
 
             // Evaluate each type in the c variable to determine the color.
-            switch (c)
+            switch (color)
             {
-                case Color.Red:
+                case Colors.Red:
                     Console.WriteLine("The color is red");
                     break;
-                case Color.Green:
+                case Colors.Green:
                     Console.WriteLine("The color is green");
                     break;
-                case Color.Blue:
+                case Colors.Blue:
                     Console.WriteLine("The color is blue");
                     break;
                 default:
